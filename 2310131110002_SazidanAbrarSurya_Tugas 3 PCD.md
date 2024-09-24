@@ -222,7 +222,7 @@ for setiap baris dalam gambar:
  ```
 Visualisasi:  
 
-![Proses error diffusion](https://www.researchgate.net/profile/panagiotis-metaxas/publication/237675301/figure/fig1/as:645699800670215@1530958237531/error-diffusion-process.png)    
+![Proses error diffusion](Proses%20Error%20Diffusion.png)    
 
 <br><br><br><br><br><br><br>  
 Daftar Pustaka  
